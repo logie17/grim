@@ -1,8 +1,0 @@
-{
-	"AWSRegion": "def-region",
-	"AWSKey": "def-key",
-	"AWSSecret": "def-secret",
-	"HipChatToken": "def-hctoken",
-	"HipChatRoom": "def-hcroom",
-	"GrimServerID": "def-serverid"
-}
